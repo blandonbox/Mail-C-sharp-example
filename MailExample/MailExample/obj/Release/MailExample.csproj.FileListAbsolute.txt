@@ -1,0 +1,9 @@
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\bin\Release\MailExample.exe.config
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\bin\Release\MailExample.exe
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\bin\Release\MailExample.pdb
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\obj\Release\MailExample.Form1.resources
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\obj\Release\MailExample.Properties.Resources.resources
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\obj\Release\MailExample.csproj.GenerateResource.Cache
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\obj\Release\MailExample.csproj.CoreCompileInputs.cache
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\obj\Release\MailExample.exe
+C:\Users\lhd\Documents\JASS\MailExample\MailExample\MailExample\obj\Release\MailExample.pdb
